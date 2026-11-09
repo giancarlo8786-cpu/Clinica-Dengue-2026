@@ -1,4 +1,4 @@
-# Exposición de cinco minutos — Proyecto Clínica del Dengue 2026
+# Exposición de cinco minutos - Proyecto Clínica del Dengue 2026
 
 **Modalidad:** proyecto de gestión académica que modela un desarrollo real sobre un antecedente MATLAB de 2025. Se deben diferenciar decisiones y avances de planificación de funciones realmente implementadas.
 
