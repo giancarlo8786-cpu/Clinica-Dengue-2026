@@ -5,6 +5,12 @@
 
 > Este repositorio modela una **simulación académica de gestión** de un proyecto basado en una aplicación MATLAB de 2025. Los estados representan hitos del ejercicio, no una implementación técnica nueva.
 
+## GitHub Project real
+
+[**Abrir tablero de Clínica del Dengue 2026**](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)
+
+El tablero ya fue creado y contiene Issues enlazados. Para cumplir exactamente la actividad, se debe añadir Backlog, ordenar los estados, localizar la tarea T-002 posiblemente ausente y tomar una captura final una vez que estén las 31 tarjetas.
+
 ## Lista de verificación del profesor
 
 | Requisito | Ubicación | Estado |
@@ -14,8 +20,8 @@
 | Product Backlog con prioridades | [31 Issues](../../issues) y [backlog](../backlog/README.md) | Registrado |
 | Descripción, responsable y Definition of Done | Cada Issue | Registrado; asignaciones de cuentas pendientes |
 | Primer ciclo seleccionado y organizado | [Vista Kanban](TABLERO_SIMULADO.md) | Simulación documentada |
-| Tablero de GitHub Projects con cuatro estados | [Guía](ORGANIZACION_TABLERO.md) | **Falta crear/verificar Project real** |
-| URL del GitHub Project | Aún no disponible | **Pendiente** |
+| Tablero de GitHub Projects con cuatro estados | [Project real](https://github.com/users/giancarlo8786-cpu/projects/1/views/1) | Creado; falta añadir Backlog y distribuir estados |
+| URL del GitHub Project | [Abrir Project](https://github.com/users/giancarlo8786-cpu/projects/1/views/1) | **Disponible** |
 | Captura real del tablero | Aún no disponible | **Pendiente** |
 | Dos reuniones con evidencia y minuta | [Plantilla](PLANTILLA_MINUTA.md) | **Pendiente evidencia auténtica** |
 
