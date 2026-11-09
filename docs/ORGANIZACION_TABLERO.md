@@ -1,26 +1,25 @@
-# GitHub Projects - organización del trabajo
+# Organización del GitHub Project — Clínica del Dengue 2026
 
-**Proyecto sugerido:** Clínica del Dengue 2026.
+## Columnas requeridas
+- **Backlog:** futura retroalimentación y ajustes dependientes de observaciones.
+- **To Do:** tareas acordadas para empezar.
+- **In Progress:** preparación activa de documentos y exposición.
+- **Done:** tareas cerradas **como hitos del proyecto simulado**.
 
-## Estados obligatorios
-- **Backlog:** tareas identificadas, pero no seleccionadas para comenzar.
-- **To Do:** trabajo priorizado y acordado para el ciclo siguiente.
-- **In Progress:** trabajo realmente en ejecución con responsable.
-- **Done:** todos los criterios de terminación y las evidencias verificadas.
+## Reparto propuesto
+- Done: T-001 a T-026 (26 Issues cerrados).
+- In Progress: [T-027](../../issues/27) y [T-028](../../issues/28).
+- To Do: [T-029](../../issues/29) y [T-030](../../issues/30).
+- Backlog: [T-031](../../issues/31).
 
-## Primer ciclo - propuesta para revisar con el equipo
-| Tarea | Responsable previsto | Prioridad | Estado a ratificar |
-|---|---|---|---|
-| [T-001](../../issues/1): preparar repositorio | Giancarlo | Alta | To Do o Done solo si existe evidencia |
-| [T-002](../../issues/2): estructura/persistencia | René | Alta | To Do |
-| [T-003](../../issues/3): tablero y backlog | Giancarlo | Alta | To Do |
-| [T-027](../../issues/27): documentación | Todos | Alta | To Do o In Progress según evidencia |
-| [T-029](../../issues/29): minutas | Todos | Alta | To Do |
-| [T-030](../../issues/30): demostración | Todos | Alta | To Do |
+Consulta la [vista Kanban](TABLERO_SIMULADO.md) y el [backlog CSV](../backlog/tablero.csv).
 
-El resto puede permanecer en Backlog hasta priorizarse.
+## Pasos de configuración manual
+1. Abrir **Projects** en el perfil del propietario del repositorio.
+2. Crear un proyecto de tipo Board llamado `Clínica del Dengue 2026`.
+3. Confirmar cuatro estados (Backlog, To Do, In Progress, Done).
+4. Añadir los 31 Issues del repositorio. Filtrar `is:closed` para ubicar los 26 cerrados.
+5. Ajustar el estado del Project a la simulación mostrada arriba.
+6. Copiar enlace y captura para la entrega y exposición.
 
-
-
-
-
+**No afirmar que estas acciones se han realizado mientras no exista un Project verificable.** El curso trabaja la planificación; el tablero debe mostrar el avance simulado como tal.

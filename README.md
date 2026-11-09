@@ -2,7 +2,7 @@
 
 **Seminario de Integración de Desarrollo · CUCEI · Universidad de Guadalajara**
 
-> **Estado:** documentación y backlog en construcción. Las funcionalidades descritas en el alcance no se consideran implementadas sin código y pruebas verificables.
+> **Modalidad:** simulación académica de gestión de proyecto. Los hitos T-001 a T-026 se han cerrado dentro del ejercicio docente; sus estados no acreditan ejecución nueva del software o de pruebas en 2026.
 
 ## Equipo
 - Fernando Emiliano Cadenas Montes
@@ -52,17 +52,29 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 
 **Versión revisada:** el objetivo general transcrito arriba. Se revisó para precisar la integración y el resultado esperado, relacionar explícitamente el proyecto con el problema y clarificar su utilidad. Estos son ajustes **internos del equipo**: todavía no se ha recibido retroalimentación de las actividades 02 y 03.
 
-## Organización y seguimiento
-- [Issues del proyecto](../../issues): tareas priorizadas con responsable previsto y Definition of Done. Todas comienzan abiertas, a la espera de pruebas que respalden cierres.
-- Estados requeridos del tablero: **Backlog · To Do · In Progress · Done**.
-- Primer ciclo sugerido: repositorio y documentación → estructura y persistencia → organización del tablero → módulos clínicos y simulación. Ajustar al progreso comprobado.
-- Cada cierre requiere criterios de aceptación y evidencia vinculada.
-- [Actividad 02](docs/ACTIVIDAD_02.md) · [Actividad 03](docs/ACTIVIDAD_03.md) · [Estado y evidencias](docs/ESTADO_Y_EVIDENCIAS.md) · [Exposición de 5 minutos](docs/EXPOSICION_5_MINUTOS.md).
-- [Organización del tablero](docs/ORGANIZACION_TABLERO.md) y [plantilla de minuta](docs/PLANTILLA_MINUTA.md).
+## Organización y seguimiento académico
+
+- [31 Issues del proyecto](../../issues): tareas con descripción, responsable previsto, prioridad y Definition of Done.
+- **26 de 31 Issues cerrados** (T-001 a T-026), como **hitos completados de la simulación académica**, no como certificación de implementación real.
+- **Cinco Issues abiertos:** T-027 (documentación), T-028 (exposición), T-029 (minutas/evidencias), T-030 (tablero y demostración), T-031 (retroalimentación pendiente).
+- [Vista Kanban documental](docs/TABLERO_SIMULADO.md): Done (26), In Progress (2), To Do (2), Backlog (1). **Esta vista no sustituye un GitHub Project real.**
+- [Backlog](backlog/README.md) con 31 fichas, CSV y JSON.
+- **En GitHub Projects se debe configurar** Backlog, To Do, In Progress y Done y asociar las tareas; se necesita URL real y captura.
+- Los responsables escritos en cada Issue son los designados en la planificación; las asignaciones de cuentas GitHub requieren confirmar los usuarios de Fernando y Sergio.
+
+## Evidencias de la asignatura
+
+- [Actividad 02](docs/ACTIVIDAD_02.md) · [Actividad 03](docs/ACTIVIDAD_03.md).
+- [Estado, alcance de la simulación y evidencias](docs/ESTADO_Y_EVIDENCIAS.md).
+- [Exposición de cinco minutos](docs/EXPOSICION_5_MINUTOS.md).
+- [Organización del tablero GitHub Projects](docs/ORGANIZACION_TABLERO.md).
+- [Plantilla de minuta](docs/PLANTILLA_MINUTA.md) y [retroalimentación pendiente](docs/RETROALIMENTACION.md).
+
+El curso se centra en el **planteamiento, gestión y defensa del proyecto**, por lo que se documenta una evolución simulada del backlog. No deben presentarse como reales pruebas, reuniones o desarrollos que no se hayan realizado.
 
 ## Procedencia y límites
 Proyecto reformulado en **septiembre–octubre de 2026**, a partir de la Clínica del Dengue desarrollada en MATLAB durante 2025. Ni las funcionalidades ni las pruebas de 2025 cuentan automáticamente como avances verificados en 2026.
 
-El repositorio anterior [Proyecto-Equipo](https://github.com/fernandocadenas8633/Proyecto-Equipo) tenía 28 Issues (6 cerrados y 22 abiertos) al revisarlo el 9-nov-2026, pero no tenía código publicado. Aquí se conserva la planificación y se agregan tareas para evidencias, demostración y retroalimentación, **sin copiar estados Done no verificados**.
+El repositorio anterior [Proyecto-Equipo](https://github.com/fernandocadenas8633/Proyecto-Equipo) se usó como antecedente de planificación. El nuevo repositorio incluye objetivos revisados y 31 tareas adaptadas a la dinámica del curso. El cierre de T-001 a T-026 fue expresamente solicitado como avance **simulado** del ejercicio.
 
-**Pendiente:** publicar el código MATLAB real si el equipo autoriza su distribución, adjuntar dos evidencias de reunión con minuta, verificar el tablero GitHub Projects y registrar observaciones reales del profesor.
+**Pendiente para cerrar la Actividad 02:** crear y enlazar GitHub Projects con sus cuatro estados; añadir captura real del tablero; confirmar dos evidencias auténticas de coordinación del equipo con sus minutas, o consultar si el profesor admite evidencias simuladas; confirmar las asignaciones reales de GitHub. La retroalimentación del profesor continúa pendiente.

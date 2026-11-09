@@ -1,31 +1,29 @@
-# Exposición de 5 minutos — Clínica del Dengue 2026
+# Exposición de cinco minutos — Proyecto Clínica del Dengue 2026
 
-**Guion de práctica; solo atribuir avances que puedan demostrarse.**
+**Modalidad:** proyecto de gestión académica que modela un desarrollo real sobre un antecedente MATLAB de 2025. Se deben diferenciar decisiones y avances de planificación de funciones realmente implementadas.
 
-### 0:00–1:00 — Giancarlo: problema
-«Nuestro proyecto es Clínica del Dengue. Los brotes pueden crecer rápido y presionar los recursos de una clínica. Observamos que la información de pacientes, medicamentos y transacciones y el análisis de posibles escenarios de propagación suelen gestionarse por separado. Queremos integrar esos procesos en una herramienta académica. No pretendemos predecir médicamente brotes reales».
+## 0:00–0:55 — Giancarlo: problema y contexto
+«El dengue puede incrementar la demanda de atención, medicamentos e inventario. Nuestro proyecto plantea unir la gestión de una clínica con la exploración académica de escenarios simulados, porque ambos procesos suelen estudiarse por separado».
 
-### 1:00–2:05 — Fernando: objetivos y evolución
-«La primera versión de nuestro objetivo decía desarrollar una aplicación que reuniera funciones. La revisamos para formular un resultado más preciso: integrar en MATLAB la gestión clínica, simulación, almacenamiento y análisis de tendencias. Así relacionamos el objetivo con el problema. Nuestros cuatro objetivos particulares son analizar, diseñar, implementar e integrar, y validar».
+## 0:55–1:55 — Fernando: objetivo general y evolución
+«Al principio nuestro objetivo enumeraba funciones: pacientes, inventario, transacciones y simulador. Lo revisamos para expresar un resultado concreto: integrar gestión clínica y análisis de escenarios en MATLAB. La finalidad es organizar la información y facilitar el estudio de posibilidades, sin pretender una predicción médica».
 
-Abrir [Actividad 03](ACTIVIDAD_03.md) y contrastar en pantalla ambas formulaciones. La revisión del profesor sigue pendiente.
+Abrir [Actividad 03](ACTIVIDAD_03.md): objetivo inicial, revisado y cuatro particulares (analizar, diseñar, implementar e integrar, validar). La retroalimentación del profesor sigue pendiente.
 
-### 2:05–3:15 — Sergio René: MVP y tareas
-«El MVP debe registrar datos básicos, ejecutar una simulación configurando humanos, mosquitos y duración, guardar los resultados y analizarlos. Desglosamos el trabajo en 31 Issues, cada uno con descripción, prioridad, responsable previsto y Definition of Done».
+## 1:55–3:00 — Sergio René: MVP y estructura
+«Definimos un MVP con registro básico, simulación ajustable, guardado, recuperación y análisis. Lo dividimos en 31 Issues con responsable, prioridad y criterios de aceptación. Para el primer ciclo priorizamos estructura y manejo de datos».
 
-Mostrar [Issues](../../issues) y explicar las cuatro columnas que debe tener el Project.
+## 3:00–4:25 — Giancarlo: seguimiento en GitHub
+Mostrar [Issues](../../issues) y el [tablero](TABLERO_SIMULADO.md) mientras se confirma GitHub Projects real.
 
-### 3:15–4:30 — Giancarlo y Fernando: avances comprobados
-Abrir README, Issues y tablero real. Diferenciar organización documentada de código MATLAB que el equipo pueda mostrar. **No declarar módulos implementados si no pueden demostrarse**.
+«Dentro de la **simulación de gestión de la materia** damos por cerrados 26 hitos y mantenemos cinco tareas pendientes, principalmente exposición, documentación, evidencias y retroalimentación. Es importante distinguir este progreso del tablero de una implementación nueva de MATLAB: retomamos un proyecto anterior como caso de estudio, no estamos declarando que programamos nuevamente los módulos».
 
-«Ya organizamos las tareas y documentamos el problema y los objetivos. Estamos validando las evidencias técnicas necesarias y ajustaremos la planificación según lo que realmente esté funcionando».
+## 4:25–5:00 — Fernando/Sergio: cierre
+«La siguiente revisión nos permitirá ajustar la formulación, la organización y la documentación con la retroalimentación recibida. Por ahora conservamos la versión interna de nuestros objetivos, los Issues organizados y lo que falta del seguimiento».
 
-### 4:30–5:00 — Todos: cierre
-«El proyecto retoma el trabajo de 2025, pero en 2026 estamos organizándolo como un desarrollo verificable y coherente con el problema. Agradecemos observaciones para incorporarlas antes de cerrar el semestre».
-
-## Preguntas probables
-- **¿Por qué cambió el objetivo general?** Para destacar el resultado de integración y su finalidad, no solo enumerar funciones.
-- **¿Cómo definen el MVP?** Registro → simulación configurable → guardado → consulta → análisis.
-- **¿Qué demuestra que un Issue está Done?** Todos sus criterios de aceptación más evidencia verificable.
-- **¿La regresión predice brotes reales?** No, estudia tendencias en escenarios simulados.
-- **¿Ya hay retroalimentación del profesor?** No; se conserva la revisión interna y se espera la evaluación en clase.
+## Respuestas cortas
+- **¿Por qué cambiaron el objetivo?** Pasamos de una lista de funciones a un resultado con propósito, contexto y relación directa con el problema.
+- **¿Qué es el MVP?** Registrar → simular → guardar → recuperar → analizar.
+- **¿Qué significan 26 Issues cerrados?** Son hitos del **escenario académico simulado**, no evidencia de desarrollo nuevo.
+- **¿Qué falta?** Tablero real, evidencias de reuniones y retroalimentación.
+- **¿Qué sí se desarrolló previamente?** Existe el antecedente MATLAB de 2025; no se presenta como implementación nueva.
