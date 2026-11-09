@@ -19,7 +19,7 @@
 | Captura real del tablero | Aún no disponible | **Pendiente** |
 | Dos reuniones con evidencia y minuta | [Plantilla](PLANTILLA_MINUTA.md) | **Pendiente evidencia auténtica** |
 
-## Avance ficticio del ciclo
+## Avance del ciclo
 
 Se ha representado como cerrado, **solo en el escenario del curso**, el bloque T-001–T-026, que cubre la estructura inicial, pacientes, inventario, operaciones, simulación, análisis y pruebas. Esto permite practicar seguimiento, priorización y exposición de la evolución del proyecto.
 
@@ -29,5 +29,3 @@ Quedan tareas docentes y de cierre: documentación (T-027), presentación (T-028
 
 Para el **tablero académico**, Done = hito dado por concluido en la simulación. Para afirmar la **implementación real** de una funcionalidad, se necesitarían código, pruebas y evidencias. Son dos afirmaciones distintas.
 
-## Material para exponer
-Mostrar la [evolución del objetivo](ACTIVIDAD_03.md), el [Kanban simulado](TABLERO_SIMULADO.md), los Issues y el **GitHub Project real** cuando se haya creado.
