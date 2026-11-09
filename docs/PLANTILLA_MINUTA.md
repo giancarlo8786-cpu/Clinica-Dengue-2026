@@ -2,7 +2,6 @@
 
 **Reunión n.º:** [completar]  
 **Fecha y hora:** 
-**Medio/lugar:** 
 **Participantes :** 
 
 ## Temas revisados
@@ -17,4 +16,3 @@
 
 **Evidencia real de la reunión:** [enlace]
 
-> La Actividad 02 exige dos reuniones reales con sus minutas; esta plantilla no acredita que hayan ocurrido.
