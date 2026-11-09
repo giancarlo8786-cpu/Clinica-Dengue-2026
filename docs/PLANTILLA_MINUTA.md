@@ -1,4 +1,4 @@
-# Minuta de reunión - PLANTILLA (NO EVIDENCIA REAL)
+# Minuta de reunión - PLANTILLA 
 
 **Reunión n.º:** [completar]  
 **Fecha y hora:** [completar]  
