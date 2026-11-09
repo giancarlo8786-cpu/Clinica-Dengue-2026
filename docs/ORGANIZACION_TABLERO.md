@@ -20,9 +20,7 @@
 
 El resto puede permanecer en Backlog hasta priorizarse.
 
-## Campos recomendados
-Status, Priority, Area, Assignee, Evidence. Los responsables de los textos no equivalen a asignaciones reales hasta confirmar sus cuentas de GitHub y permisos.
 
 
 
-**Estado:** guía preparada. No afirmar que el tablero está creado hasta verificar su URL y contenido.
+
