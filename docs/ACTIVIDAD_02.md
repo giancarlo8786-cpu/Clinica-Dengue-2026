@@ -24,6 +24,5 @@
 El primer ciclo se enfocará en:
 1. Definir la estructura base del repositorio y la persistencia de datos.
 2. Redactar la documentación esencial y configurar el tablero de trabajo.
-3. Avanzar posteriormente hacia los módulos clínicos, la simulación y el análisis.
+3. Avanzar después hacia los módulos clínicos, la simulación y el análisis.
 
-> **Criterio de finalización (DoD):** Un Issue solo se considerará **Done** cuando cumpla con todos los criterios de aceptación y cuente con su respectiva evidencia en el código o documentación.
