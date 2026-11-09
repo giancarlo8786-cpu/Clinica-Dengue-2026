@@ -1,7 +1,4 @@
-# Estado y evidencias verificables
 
-## Origen del trabajo
-El repositorio anterior `fernandocadenas8633/Proyecto-Equipo` presentaba 28 Issues (6 cerrados y 22 abiertos) el 9 de noviembre de 2026, sin código ni commits publicados. Esto corresponde al **estado de gestión registrado**, no prueba que funciones de MATLAB estuvieran listas.
 
 ## Evidencias todavía necesarias
 | Área | Evidencia | Situación |
@@ -17,5 +14,3 @@ El repositorio anterior `fernandocadenas8633/Proyecto-Equipo` presentaba 28 Issu
 | Tablero | URL, cuatro estados y captura real | Pendiente |
 | Retroalimentación | Observaciones del profesor | Aún no recibidas |
 
-## Regla de integridad
-No inventar avances, porcentajes, mediciones, reuniones o pruebas. Las 67 pruebas registradas en la Clínica del Dengue **2025** son antecedente, no cobertura validada de 2026. Los Issues se abren como tareas y se cierran cuando exista evidencia.
