@@ -16,10 +16,16 @@ Los cierres **no** demuestran que el código MATLAB, la simulación, los módulo
 
 | Evidencia | Estado |
 |---|---|
-| GitHub Project real con Backlog, To Do, In Progress y Done | Pendiente |
-| URL y captura real del Project | Pendiente |
+| GitHub Project real con Backlog, To Do, In Progress y Done | **Creado con 31 tarjetas, comprobado en captura** |
+| URL y captura real del Project | [URL disponible](https://github.com/users/giancarlo8786-cpu/projects/1/views/1); captura compartida en chat, pendiente adjuntar a la entrega |
 | Dos evidencias de coordinación/reuniones con minutas reales | Pendiente |
 | Cuentas GitHub de Fernando y Sergio para asignaciones reales | Pendiente confirmar |
 | Retroalimentación del profesor sobre Actividades 02 y 03 | No recibida; no anticipar ni inventar |
 
 La documentación ya publicada satisface la parte de **definición y estructura del proyecto**. Las reuniones y capturas deben corresponder a hechos reales; si el profesor permite datos simulados para esas evidencias, deben etiquetarse como tales.
+
+## Corte del tablero: 9 de noviembre de 2026
+
+Backlog: **1** (T-031); To Do: **1** (T-030); In Progress: **3** (T-027, T-028 y T-029); Done: **26** (T-001–T-026). Total: **31 tarjetas**. T-002 figura en Done al final de la columna, según confirmó el responsable.
+
+El repo y el Project son **privados**. Es indispensable habilitar acceso al docente para la revisión por URL.
