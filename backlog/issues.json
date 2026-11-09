@@ -1,0 +1,498 @@
+[
+  {
+    "id": "T-001",
+    "title": "T-001: Configurar repositorio en GitHub",
+    "description": "Crear el nuevo repositorio del curso y verificar acceso del equipo.",
+    "responsable": "Giancarlo",
+    "priority": "Alta",
+    "area": "Infraestructura",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/1",
+    "body_file": "backlog/issues/T-001.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Repositorio accesible y enlazado al equipo",
+      "README publicado en la rama principal",
+      "URL y primer commit disponibles como evidencia"
+    ]
+  },
+  {
+    "id": "T-002",
+    "title": "T-002: Crear estructura de carpetas y persistencia",
+    "description": "Preparar estructura MATLAB src/, data/ y data/series/ y persistencia de prueba.",
+    "responsable": "René",
+    "priority": "Alta",
+    "area": "Infraestructura",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/2",
+    "body_file": "backlog/issues/T-002.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Estructura versionada o documentada",
+      "Lectura y escritura de datos de prueba verificada",
+      "Instrucciones de ejecución actualizadas"
+    ]
+  },
+  {
+    "id": "T-003",
+    "title": "T-003: Crear GitHub Project y organizar backlog",
+    "description": "Crear tablero con Backlog, To Do, In Progress y Done; enlazar tareas con estados reales.",
+    "responsable": "Giancarlo",
+    "priority": "Alta",
+    "area": "Infraestructura",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/3",
+    "body_file": "backlog/issues/T-003.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "URL del Project accesible al equipo",
+      "Cuatro estados visibles",
+      "Tareas del primer ciclo priorizadas, asignadas y verificadas"
+    ]
+  },
+  {
+    "id": "T-004",
+    "title": "T-004: Crear formulario para registrar pacientes",
+    "description": "Formulario académico de pacientes con nombre, edad, peso, sexo y estado.",
+    "responsable": "Fernando",
+    "priority": "Alta",
+    "area": "Pacientes",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/4",
+    "body_file": "backlog/issues/T-004.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Formulario ejecutable con datos ficticios",
+      "Registro guardado y recuperable",
+      "Prueba de alta documentada"
+    ]
+  },
+  {
+    "id": "T-005",
+    "title": "T-005: Crear tabla para listar pacientes",
+    "description": "Mostrar registros persistidos en tabla actualizable.",
+    "responsable": "Fernando",
+    "priority": "Alta",
+    "area": "Pacientes",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/5",
+    "body_file": "backlog/issues/T-005.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Tabla lee registros guardados",
+      "Nuevos registros aparecen correctamente",
+      "Captura o prueba de consulta"
+    ]
+  },
+  {
+    "id": "T-006",
+    "title": "T-006: Agregar edición y eliminación de pacientes",
+    "description": "Editar desde ventana dedicada y eliminar registros de prueba de forma controlada.",
+    "responsable": "Fernando",
+    "priority": "Media",
+    "area": "Pacientes",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/6",
+    "body_file": "backlog/issues/T-006.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Cambios persistentes y visibles",
+      "Eliminación confirmada actualiza lista",
+      "Prueba tras reiniciar"
+    ]
+  },
+  {
+    "id": "T-007",
+    "title": "T-007: Validar campos de pacientes",
+    "description": "Rechazar nombres vacíos y valores inválidos de edad o peso.",
+    "responsable": "Fernando",
+    "priority": "Alta",
+    "area": "Pacientes",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/7",
+    "body_file": "backlog/issues/T-007.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Mensajes de validación claros",
+      "No se guardan registros inválidos",
+      "Pruebas positivas y negativas"
+    ]
+  },
+  {
+    "id": "T-008",
+    "title": "T-008: Crear formulario para registrar medicamentos",
+    "description": "Registrar nombre, lote, cantidad, precio, mínimo y caducidad.",
+    "responsable": "Giancarlo",
+    "priority": "Alta",
+    "area": "Inventario",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/8",
+    "body_file": "backlog/issues/T-008.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Formulario funcional con medicamentos ficticios",
+      "Datos obligatorios persistidos",
+      "Consulta posterior verificada"
+    ]
+  },
+  {
+    "id": "T-009",
+    "title": "T-009: Crear tabla para listar inventario",
+    "description": "Mostrar medicamentos y existencias guardadas.",
+    "responsable": "Giancarlo",
+    "priority": "Alta",
+    "area": "Inventario",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/9",
+    "body_file": "backlog/issues/T-009.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Datos cargados de persistencia",
+      "Existencias actualizadas tras cambios",
+      "Prueba documentada"
+    ]
+  },
+  {
+    "id": "T-010",
+    "title": "T-010: Agregar edición de cantidades y precios",
+    "description": "Editar productos desde ventana dedicada.",
+    "responsable": "Giancarlo",
+    "priority": "Media",
+    "area": "Inventario",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/10",
+    "body_file": "backlog/issues/T-010.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Edita registro correcto",
+      "Conserva datos al reiniciar",
+      "Prueba de edición documentada"
+    ]
+  },
+  {
+    "id": "T-011",
+    "title": "T-011: Validar campos de inventario",
+    "description": "Impedir cantidades, mínimos y precios negativos.",
+    "responsable": "Giancarlo",
+    "priority": "Alta",
+    "area": "Inventario",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/11",
+    "body_file": "backlog/issues/T-011.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Rechaza entradas inválidas",
+      "Mensajes explicativos",
+      "Pruebas válidas e inválidas"
+    ]
+  },
+  {
+    "id": "T-012",
+    "title": "T-012: Crear calculadora académica de dosis",
+    "description": "Cálculo matemático peso × parámetro mg/kg con datos ficticios; no sustituye una prescripción.",
+    "responsable": "René",
+    "priority": "Alta",
+    "area": "Dosis y caja",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/12",
+    "body_file": "backlog/issues/T-012.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Resultado validado con entradas de prueba",
+      "Rechaza entradas inválidas",
+      "Advierte finalidad académica"
+    ]
+  },
+  {
+    "id": "T-013",
+    "title": "T-013: Descontar medicamento del inventario",
+    "description": "Reflejar consumo simulado al registrar una operación de prueba.",
+    "responsable": "René",
+    "priority": "Alta",
+    "area": "Dosis y caja",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/13",
+    "body_file": "backlog/issues/T-013.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Descuenta la existencia correcta",
+      "Impide stock negativo",
+      "Prueba registrada"
+    ]
+  },
+  {
+    "id": "T-014",
+    "title": "T-014: Crear formulario para registrar ventas",
+    "description": "Venta simulada seleccionando medicamento, cantidad y total.",
+    "responsable": "René",
+    "priority": "Alta",
+    "area": "Dosis y caja",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/14",
+    "body_file": "backlog/issues/T-014.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Venta con total coherente",
+      "Historial conservado",
+      "Actualiza inventario al confirmar"
+    ]
+  },
+  {
+    "id": "T-015",
+    "title": "T-015: Validar stock antes de venta",
+    "description": "Impedir ventas simuladas por encima de existencias.",
+    "responsable": "René",
+    "priority": "Alta",
+    "area": "Dosis y caja",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/15",
+    "body_file": "backlog/issues/T-015.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Rechaza stock insuficiente",
+      "No crea transacción inválida",
+      "Caso límite probado"
+    ]
+  },
+  {
+    "id": "T-016",
+    "title": "T-016: Mostrar KPIs en Dashboard",
+    "description": "Contadores de pacientes, productos, transacciones y simulaciones.",
+    "responsable": "Fernando",
+    "priority": "Alta",
+    "area": "Dashboard",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/16",
+    "body_file": "backlog/issues/T-016.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Indicadores coinciden con datos",
+      "Se actualizan tras modificaciones",
+      "Pruebas o capturas"
+    ]
+  },
+  {
+    "id": "T-017",
+    "title": "T-017: Mostrar gráfica de última simulación",
+    "description": "Visualizar infectados, mosquitos y sanos en la pantalla principal.",
+    "responsable": "Fernando",
+    "priority": "Baja",
+    "area": "Dashboard",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/17",
+    "body_file": "backlog/issues/T-017.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Gráfica de datos persistidos",
+      "Etiquetas legibles",
+      "Estado sin historial probado"
+    ]
+  },
+  {
+    "id": "T-018",
+    "title": "T-018: Crear simulador 2D de dengue",
+    "description": "Simulación académica parametrizable de humanos, mosquitos, contagios y zonas seguras.",
+    "responsable": "Giancarlo",
+    "priority": "Alta",
+    "area": "Simulación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/18",
+    "body_file": "backlog/issues/T-018.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Corrida reproducible con parámetros",
+      "Visualización de estados",
+      "Supuestos y limitaciones documentados"
+    ]
+  },
+  {
+    "id": "T-019",
+    "title": "T-019: Agregar controles de simulación",
+    "description": "Iniciar, pausar y detener el simulador 2D.",
+    "responsable": "Giancarlo",
+    "priority": "Media",
+    "area": "Simulación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/19",
+    "body_file": "backlog/issues/T-019.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Iniciar funciona",
+      "Pausar no avanza",
+      "Detener limpia o conserva estado según diseño"
+    ]
+  },
+  {
+    "id": "T-020",
+    "title": "T-020: Guardar resultados de simulación",
+    "description": "Guardar infectados, mosquitos, sanos y parámetros en archivos de prueba.",
+    "responsable": "Giancarlo",
+    "priority": "Alta",
+    "area": "Simulación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/20",
+    "body_file": "backlog/issues/T-020.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Datos escritos correctamente",
+      "Series se pueden volver a leer",
+      "Formato y ubicación documentados"
+    ]
+  },
+  {
+    "id": "T-021",
+    "title": "T-021: Crear tabla con historial de simulaciones",
+    "description": "Listar y consultar todas las simulaciones persistidas.",
+    "responsable": "René",
+    "priority": "Alta",
+    "area": "Simulación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/21",
+    "body_file": "backlog/issues/T-021.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Listado recupera ejecuciones",
+      "Se pueden abrir resultados",
+      "Maneja historial vacío y archivos faltantes"
+    ]
+  },
+  {
+    "id": "T-022",
+    "title": "T-022: Agregar regresión lineal entre simulaciones",
+    "description": "Comparar resultados de simulaciones mediante regresión lineal académica.",
+    "responsable": "René",
+    "priority": "Media",
+    "area": "Simulación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/22",
+    "body_file": "backlog/issues/T-022.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Permite seleccionar simulaciones válidas",
+      "Presenta ecuación y medida de ajuste",
+      "Validación numérica y limitaciones documentadas"
+    ]
+  },
+  {
+    "id": "T-023",
+    "title": "T-023: Crear matriz de requerimientos y casos de prueba",
+    "description": "Trazar requisitos del MVP a pruebas de la versión 2026; no contar las 67 pruebas de 2025.",
+    "responsable": "Todos",
+    "priority": "Alta",
+    "area": "Calidad",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/23",
+    "body_file": "backlog/issues/T-023.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Matriz de requisitos y pruebas",
+      "Cobertura de flujos críticos del MVP",
+      "Documento revisado y versionado"
+    ]
+  },
+  {
+    "id": "T-024",
+    "title": "T-024: Ejecutar pruebas y registrar resultados reales",
+    "description": "Ejecutar casos con evidencia, versión, fecha y resultados Pass/Fail.",
+    "responsable": "Todos",
+    "priority": "Alta",
+    "area": "Calidad",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/24",
+    "body_file": "backlog/issues/T-024.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Pruebas de versión identificada",
+      "Resultados y evidencias disponibles",
+      "Fallos registrados como Issues"
+    ]
+  },
+  {
+    "id": "T-025",
+    "title": "T-025: Registrar y corregir defectos",
+    "description": "Registrar defectos reproducibles y repetir pruebas tras cambios.",
+    "responsable": "Todos",
+    "priority": "Alta",
+    "area": "Calidad",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/25",
+    "body_file": "backlog/issues/T-025.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Pasos para reproducir defectos",
+      "Corrección con commit o evidencia",
+      "Prueba de regresión"
+    ]
+  },
+  {
+    "id": "T-026",
+    "title": "T-026: Calcular métricas de calidad",
+    "description": "Calcular cobertura, defect density, velocidad y lead time cuando haya datos reales.",
+    "responsable": "Giancarlo",
+    "priority": "Media",
+    "area": "Calidad",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/26",
+    "body_file": "backlog/issues/T-026.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Fuentes y fórmulas definidas",
+      "Valores basados en datos verificables",
+      "Limitaciones indicadas"
+    ]
+  },
+  {
+    "id": "T-027",
+    "title": "T-027: Escribir documentación del proyecto",
+    "description": "Consolidar problema, objetivos, alcance, MVP y documentación de ejecución.",
+    "responsable": "Todos",
+    "priority": "Alta",
+    "area": "Documentación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/27",
+    "body_file": "backlog/issues/T-027.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "README cumple Actividad 02",
+      "Evolución del objetivo general conservada",
+      "Sin afirmaciones de progreso no verificadas"
+    ]
+  },
+  {
+    "id": "T-028",
+    "title": "T-028: Preparar presentación final y defensa",
+    "description": "Exposición de 5 minutos con problema, objetivos, avances, repositorio y tablero.",
+    "responsable": "Todos",
+    "priority": "Media",
+    "area": "Documentación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/28",
+    "body_file": "backlog/issues/T-028.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Guion de tres integrantes",
+      "Posibles preguntas ensayadas",
+      "Enlaces/capturas verificados"
+    ]
+  },
+  {
+    "id": "T-029",
+    "title": "T-029: Registrar dos reuniones con minutas y evidencias",
+    "description": "Documentar reuniones reales con asistentes, acuerdos, responsables y acciones.",
+    "responsable": "Todos",
+    "priority": "Alta",
+    "area": "Documentación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/29",
+    "body_file": "backlog/issues/T-029.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Dos minutas con fechas y participantes reales",
+      "Tareas y acuerdos registrados",
+      "Evidencia real para cada reunión"
+    ]
+  },
+  {
+    "id": "T-030",
+    "title": "T-030: Verificar tablero y preparar demostración del MVP",
+    "description": "Comprobar tablero, estados reales y demostración de avances verificables.",
+    "responsable": "Todos",
+    "priority": "Alta",
+    "area": "Documentación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/30",
+    "body_file": "backlog/issues/T-030.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Estados Backlog, To Do, In Progress, Done",
+      "Ninguna tarea Done sin evidencia",
+      "Captura real y enlaces listos"
+    ]
+  },
+  {
+    "id": "T-031",
+    "title": "T-031: Registrar retroalimentación recibida y ajustes",
+    "description": "Documentar observaciones reales tras la sesión del profesor.",
+    "responsable": "Todos",
+    "priority": "Media",
+    "area": "Documentación",
+    "issue_url": "https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/issues/31",
+    "body_file": "backlog/issues/T-031.md",
+    "estado_inicial": "Backlog (por verificar)",
+    "dod": [
+      "Observaciones con fecha y autor",
+      "Cambios justificados y vinculados",
+      "Versiones anteriores conservadas"
+    ]
+  }
+]
