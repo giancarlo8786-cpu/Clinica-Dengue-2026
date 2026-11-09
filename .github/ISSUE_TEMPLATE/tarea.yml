@@ -1,0 +1,40 @@
+name: Tarea de desarrollo
+description: Registrar una tarea verificable de Clínica del Dengue 2026
+title: 'T-XXX: '
+body:
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción
+      description: ¿Qué se hará y por qué?
+    validations:
+      required: true
+  - type: input
+    id: responsable
+    attributes:
+      label: Responsable
+      placeholder: Nombre del integrante o @usuario confirmado
+    validations:
+      required: true
+  - type: dropdown
+    id: prioridad
+    attributes:
+      label: Prioridad
+      options:
+        - Alta
+        - Media
+        - Baja
+    validations:
+      required: true
+  - type: textarea
+    id: dod
+    attributes:
+      label: Definition of Done
+      description: Condiciones verificables para declarar terminado el trabajo.
+    validations:
+      required: true
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Evidencias
+      description: Enlaces a código, commits, pruebas, capturas o documentos reales.
