@@ -1,4 +1,4 @@
-# Actividad 02 — De la idea a un proyecto ejecutable
+# Actividad 02 - De la idea a un proyecto ejecutable
 
 **Materia:** Seminario de Integración de Desarrollo  
 **Entrega original:** 9 de septiembre de 2026
