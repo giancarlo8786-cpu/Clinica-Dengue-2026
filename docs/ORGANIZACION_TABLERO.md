@@ -1,4 +1,4 @@
-# GitHub Projects — organización del trabajo
+# GitHub Projects - organización del trabajo
 
 **Proyecto sugerido:** Clínica del Dengue 2026.
 
