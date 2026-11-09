@@ -24,5 +24,4 @@ Más allá de crear una simple app, este proyecto busca **integrar la gestión c
 ---
 
 ## Notas de control y alcance
-* **Control de cambios:** Si se recibe retroalimentación externa sobre las Actividades 02 y 03, se registrará en `RETROALIMENTACION.md` sin sobrescribir las versiones anteriores.
 * **Alcance técnico:** El módulo de regresión lineal y la simulación son herramientas académicas para explorar escenarios comparativos, **no** un motor de diagnóstico o pronóstico médico.
