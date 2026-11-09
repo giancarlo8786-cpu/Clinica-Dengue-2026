@@ -56,7 +56,7 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 
 **[Abrir tablero de Clínica del Dengue 2026](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)**.
 
-El equipo creó el Project de tipo Board y vinculó 30 tarjetas visibles en la captura del 9 de noviembre de 2026. **Falta** añadir la opción Backlog, ubicar las tareas T-027 a T-031 en sus estados propuestos y revisar que T-002 también esté agregado; posteriormente se debe tomar una captura final. Los cierres T-001 a T-026 son hitos de la **simulación académica**, no implementación técnica nueva.
+
 
 ## Organización y seguimiento académico
 
@@ -65,8 +65,6 @@ El equipo creó el Project de tipo Board y vinculó 30 tarjetas visibles en la c
 - **Cinco Issues abiertos:** T-027 (documentación), T-028 (exposición), T-029 (minutas/evidencias), T-030 (tablero y demostración), T-031 (retroalimentación pendiente).
 - [Vista Kanban documental](docs/TABLERO_SIMULADO.md): Done (26), In Progress (2), To Do (2), Backlog (1). **Esta vista no sustituye un GitHub Project real.**
 - [Backlog](backlog/README.md) con 31 fichas, CSV y JSON.
-- **En GitHub Projects se debe configurar** Backlog, To Do, In Progress y Done y asociar las tareas; se necesita URL real y captura.
-- Los responsables escritos en cada Issue son los designados en la planificación; las asignaciones de cuentas GitHub requieren confirmar los usuarios de Fernando y Sergio.
 
 ## Evidencias de la asignatura
 
