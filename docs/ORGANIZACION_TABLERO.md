@@ -8,7 +8,7 @@
 - **In Progress:** trabajo realmente en ejecución con responsable.
 - **Done:** todos los criterios de terminación y las evidencias verificadas.
 
-## Primer ciclo — propuesta para revisar con el equipo
+## Primer ciclo - propuesta para revisar con el equipo
 | Tarea | Responsable previsto | Prioridad | Estado a ratificar |
 |---|---|---|---|
 | [T-001](../../issues/1): preparar repositorio | Giancarlo | Alta | To Do o Done solo si existe evidencia |
