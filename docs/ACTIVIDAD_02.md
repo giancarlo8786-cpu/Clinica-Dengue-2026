@@ -9,7 +9,7 @@
 
 [**Abrir tablero de Clínica del Dengue 2026**](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)
 
-El tablero ya fue creado y contiene Issues enlazados. Para cumplir exactamente la actividad, se debe añadir Backlog, ordenar los estados, localizar la tarea T-002 posiblemente ausente y tomar una captura final una vez que estén las 31 tarjetas.
+El tablero tiene las cuatro columnas requeridas y 31 tarjetas, incluido T-002 en Done. La captura proporcionada el 9 de noviembre de 2026 muestra: **Backlog 1, To Do 1, In Progress 3 y Done 26**. Falta adjuntar esa captura a la entrega y asegurar que el profesor tenga acceso al Project privado.
 
 ## Lista de verificación del profesor
 
@@ -20,9 +20,9 @@ El tablero ya fue creado y contiene Issues enlazados. Para cumplir exactamente l
 | Product Backlog con prioridades | [31 Issues](../../issues) y [backlog](../backlog/README.md) | Registrado |
 | Descripción, responsable y Definition of Done | Cada Issue | Registrado; asignaciones de cuentas pendientes |
 | Primer ciclo seleccionado y organizado | [Vista Kanban](TABLERO_SIMULADO.md) | Simulación documentada |
-| Tablero de GitHub Projects con cuatro estados | [Project real](https://github.com/users/giancarlo8786-cpu/projects/1/views/1) | Creado; falta añadir Backlog y distribuir estados |
+| Tablero de GitHub Projects con cuatro estados | [Project real](https://github.com/users/giancarlo8786-cpu/projects/1/views/1) | **Completado: 31 tarjetas** |
 | URL del GitHub Project | [Abrir Project](https://github.com/users/giancarlo8786-cpu/projects/1/views/1) | **Disponible** |
-| Captura real del tablero | Aún no disponible | **Pendiente** |
+| Captura real del tablero | Captura compartida en el chat | **Pendiente subirla a Classroom/repositorio** |
 | Dos reuniones con evidencia y minuta | [Plantilla](PLANTILLA_MINUTA.md) | **Pendiente evidencia auténtica** |
 
 ## Avance del ciclo
@@ -35,3 +35,9 @@ Quedan tareas docentes y de cierre: documentación (T-027), presentación (T-028
 
 Para el **tablero académico**, Done = hito dado por concluido en la simulación. Para afirmar la **implementación real** de una funcionalidad, se necesitarían código, pruebas y evidencias. Son dos afirmaciones distintas.
 
+
+## Revisión final del Project
+
+El tablero de GitHub Projects está creado con **Backlog / To Do / In Progress / Done**, y los 31 Issues figuran en una de esas columnas. Los 26 marcados Done representan **hitos de la simulación de gestión**, sin acreditar implementación nueva de MATLAB. La presentación puede mostrar el Project en vivo, siempre que exista acceso.
+
+**Acceso:** el repositorio y el Project aparecen privados; el profesor necesita permisos o se deben modificar las opciones de visibilidad.
