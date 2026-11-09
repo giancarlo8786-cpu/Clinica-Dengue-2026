@@ -23,10 +23,6 @@ El resto puede permanecer en Backlog hasta priorizarse.
 ## Campos recomendados
 Status, Priority, Area, Assignee, Evidence. Los responsables de los textos no equivalen a asignaciones reales hasta confirmar sus cuentas de GitHub y permisos.
 
-## Antes de la clase
-1. Crear el GitHub Project, enlazar los Issues y verificar los cuatro estados.
-2. Poner cada tarea en el estado **real**, sin copiar los seis cierres históricos del repositorio de Fernando.
-3. Hacer captura del tablero y agregar el enlace a README/entrega.
-4. Preparar evidencia de reuniones y funcionalidad real de MATLAB.
+
 
 **Estado:** guía preparada. No afirmar que el tablero está creado hasta verificar su URL y contenido.
