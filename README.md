@@ -52,6 +52,12 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 
 **Versión revisada:** el objetivo general transcrito arriba. Se revisó para precisar la integración y el resultado esperado, relacionar explícitamente el proyecto con el problema y clarificar su utilidad. Estos son ajustes **internos del equipo**: todavía no se ha recibido retroalimentación de las actividades 02 y 03.
 
+## GitHub Project (tablero real)
+
+**[Abrir tablero de Clínica del Dengue 2026](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)**.
+
+El equipo creó el Project de tipo Board y vinculó 30 tarjetas visibles en la captura del 9 de noviembre de 2026. **Falta** añadir la opción Backlog, ubicar las tareas T-027 a T-031 en sus estados propuestos y revisar que T-002 también esté agregado; posteriormente se debe tomar una captura final. Los cierres T-001 a T-026 son hitos de la **simulación académica**, no implementación técnica nueva.
+
 ## Organización y seguimiento académico
 
 - [31 Issues del proyecto](../../issues): tareas con descripción, responsable previsto, prioridad y Definition of Done.
