@@ -1,4 +1,4 @@
-# Organización del GitHub Project — Clínica del Dengue 2026
+# Organización del GitHub Project  Clínica del Dengue 2026
 
 ## Columnas requeridas
 - **Backlog:** futura retroalimentación y ajustes dependientes de observaciones.
