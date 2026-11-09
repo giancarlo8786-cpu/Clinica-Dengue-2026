@@ -1,0 +1,19 @@
+# MATLAB / entorno local
+*.asv
+*.autosave
+*.m~
+*.mex*
+slprj/
+codegen/
+*.log
+
+# Archivos temporales / cachés
+.DS_Store
+Thumbs.db
+__pycache__/
+*.tmp
+
+# Datos reales y exportaciones locales: usar muestras anonimizadas
+private/
+secrets/
+*.env
