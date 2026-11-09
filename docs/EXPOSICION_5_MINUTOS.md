@@ -14,7 +14,7 @@ Abrir [Actividad 03](ACTIVIDAD_03.md): objetivo inicial, revisado y cuatro parti
 «Definimos un MVP con registro básico, simulación ajustable, guardado, recuperación y análisis. Lo dividimos en 31 Issues con responsable, prioridad y criterios de aceptación. Para el primer ciclo priorizamos estructura y manejo de datos».
 
 ## 3:00–4:25  Giancarlo: seguimiento en GitHub
-Mostrar [Issues](../../issues) y el [tablero](TABLERO_SIMULADO.md) mientras se confirma GitHub Projects real.
+Mostrar [Issues](../../issues) y el [GitHub Project real](https://github.com/users/giancarlo8786-cpu/projects/1/views/1): **Done 26, In Progress 3, To Do 1, Backlog 1**.
 
 «Dentro de la **simulación de gestión de la materia** damos por cerrados 26 hitos y mantenemos cinco tareas pendientes, principalmente exposición, documentación, evidencias y retroalimentación. Es importante distinguir este progreso del tablero de una implementación nueva de MATLAB: retomamos un proyecto anterior como caso de estudio, no estamos declarando que programamos nuevamente los módulos».
 
@@ -25,5 +25,5 @@ Mostrar [Issues](../../issues) y el [tablero](TABLERO_SIMULADO.md) mientras se c
 - **¿Por qué cambiaron el objetivo?** Pasamos de una lista de funciones a un resultado con propósito, contexto y relación directa con el problema.
 - **¿Qué es el MVP?** Registrar → simular → guardar → recuperar → analizar.
 - **¿Qué significan 26 Issues cerrados?** Son hitos del **escenario académico simulado**, no evidencia de desarrollo nuevo.
-- **¿Qué falta?** Tablero real, evidencias de reuniones y retroalimentación.
+- **¿Qué falta?** Adjuntar la captura real del tablero, documentar las reuniones, comprobar acceso del profesor y recibir retroalimentación.
 - **¿Qué sí se desarrolló previamente?** Existe el antecedente MATLAB de 2025; no se presenta como implementación nueva.
