@@ -78,9 +78,4 @@ El equipo creó el Project de tipo Board y vinculó 30 tarjetas visibles en la c
 
 El curso se centra en el **planteamiento, gestión y defensa del proyecto**, por lo que se documenta una evolución simulada del backlog. No deben presentarse como reales pruebas, reuniones o desarrollos que no se hayan realizado.
 
-## Procedencia y límites
-Proyecto reformulado en **septiembre–octubre de 2026**, a partir de la Clínica del Dengue desarrollada en MATLAB durante 2025. Ni las funcionalidades ni las pruebas de 2025 cuentan automáticamente como avances verificados en 2026.
-
-El repositorio anterior [Proyecto-Equipo](https://github.com/fernandocadenas8633/Proyecto-Equipo) se usó como antecedente de planificación. El nuevo repositorio incluye objetivos revisados y 31 tareas adaptadas a la dinámica del curso. El cierre de T-001 a T-026 fue expresamente solicitado como avance **simulado** del ejercicio.
-
-**Pendiente para cerrar la Actividad 02:** crear y enlazar GitHub Projects con sus cuatro estados; añadir captura real del tablero; confirmar dos evidencias auténticas de coordinación del equipo con sus minutas, o consultar si el profesor admite evidencias simuladas; confirmar las asignaciones reales de GitHub. La retroalimentación del profesor continúa pendiente.
+ tablero; confirmar dos evidencias auténticas de coordinación del equipo con sus minutas, o consultar si el profesor admite evidencias simuladas; confirmar las asignaciones reales de GitHub. La retroalimentación del profesor continúa pendiente.
