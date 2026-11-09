@@ -14,7 +14,7 @@
 ## Problema
 Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recursos. Gestionar pacientes, medicamentos, inventarios y transacciones, por una parte, y analizar escenarios de propagación por otra, suelen ser procesos separados. La dificultad que aborda este proyecto es integrar la información clínica básica con el análisis académico de escenarios, para mejorar la organización y el estudio de posibles condiciones.
 
-## Objetivo general (Actividad 03 — versión revisada)
+## Objetivo general (Actividad 03 - versión revisada)
 > Desarrollar e integrar una plataforma en MATLAB para apoyar la gestión clínica básica relacionada con el dengue y el análisis de posibles escenarios de propagación, mediante módulos de administración, simulaciones configurables, almacenamiento de resultados y análisis de tendencias, con el fin de organizar la información y facilitar la preparación y comprensión ante diferentes escenarios.
 
 ### Objetivos particulares
