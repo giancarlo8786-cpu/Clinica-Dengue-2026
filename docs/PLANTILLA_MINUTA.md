@@ -1,9 +1,9 @@
 # Minuta de reunión - PLANTILLA 
 
 **Reunión n.º:** [completar]  
-**Fecha y hora:** [completar]  
-**Medio/lugar:** [completar]  
-**Participantes reales:** [completar]
+**Fecha y hora:** 
+**Medio/lugar:** 
+**Participantes :** 
 
 ## Temas revisados
 [completar]
@@ -13,7 +13,7 @@
 
 | Próxima acción | Responsable | Fecha de compromiso | Evidencia esperada |
 |---|---|---|---|
-| [acción] | [integrante] | [fecha] | [enlace o captura] |
+| [acción] | [integrante] | [fecha] | [captura] |
 
 **Evidencia real de la reunión:** [enlace]
 
