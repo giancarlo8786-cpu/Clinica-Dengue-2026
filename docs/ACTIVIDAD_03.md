@@ -1,32 +1,28 @@
-# Actividad 03 — Del problema a los objetivos del proyecto
+# Actividad 03: Del problema a los objetivos del proyecto
 
 ## Planteamiento del problema
-Los brotes de dengue presionan recursos y atención de clínicas. Mientras la información de pacientes, inventario y transacciones se administra para operar diariamente, el análisis de propagación suele manejarse como actividad separada. El problema no es simplemente la ausencia de una aplicación: se identifica la **necesidad de integrar gestión clínica básica y exploración académica de escenarios simulados**.
+Durante los brotes de dengue, la carga operativa sobre las clínicas dificulta analizar la propagación en tiempo real, ya que la gestión clínica diaria y la simulación de escenarios suelen llevarse por separado. 
 
-## Evolución del objetivo general
-**Primera versión (conservada):**
+Más allá de crear una simple app, este proyecto busca **integrar la gestión clínica básica con un entorno de simulación de escenarios**.
 
-> Desarrollar una aplicación para una Clínica del Dengue que integre la gestión de pacientes, inventario, medicamentos y transacciones con un simulador configurable y herramientas de análisis, con el fin de organizar la información y estudiar posibles comportamientos de un brote.
+## Objetivo general
+> Desarrollar e integrar una plataforma en MATLAB que facilite la gestión clínica básica del dengue y el análisis de escenarios de propagación. La herramienta combina módulos de administración, simulaciones configurables, almacenamiento de datos y análisis de tendencias para organizar la información y apoyar en la preparación ante posibles brotes.
 
-**Versión revisada del equipo:**
+### ¿Por qué se actualizó el objetivo?
+* **Enfoque en la integración:** Se pasa de un simple listado de funciones a priorizar la unión entre la gestión clínica y el análisis.
+* **Contexto técnico claro:** Se especifica el uso de MATLAB y el alcance académico/técnico.
+* **Coherencia metodológica:** Alinea de forma directa el problema, los objetivos y las tareas a entregar.
 
-> Desarrollar e integrar una plataforma en MATLAB para apoyar la gestión clínica básica relacionada con el dengue y el análisis de posibles escenarios de propagación, mediante módulos de administración, simulaciones configurables, almacenamiento de resultados y análisis de tendencias, con el fin de organizar la información y facilitar la preparación y comprensión ante diferentes escenarios.
+---
 
-## ¿Por qué se revisó?
-1. La formulación anterior enumeraba funciones; la nueva destaca el **resultado de integrar** gestión y análisis.
-2. Precisa el contexto técnico/académico y la finalidad de organizar información y estudiar escenarios.
-3. Mantiene coherencia entre **problema → objetivo general → objetivos particulares → tareas**.
-4. No confunde herramientas o actividades como crear el repositorio con resultados del proyecto.
+## Objetivos específicos
+1. **Analizar** los procesos clínicos y las variables de simulación para definir los modelos de datos y reglas de negocio.
+2. **Diseñar** la arquitectura modular y los flujos de datos entre administración, simulación y visualización.
+3. **Implementar** en MATLAB los módulos de gestión, el motor de simulación, la persistencia de datos y las herramientas de análisis (regresión lineal).
+4. **Validar** la integración mediante pruebas de persistencia, entrada de datos y consistencia de escenarios.
 
-## Objetivos particulares
-1. **Analizar** procesos de gestión clínica y variables de simulación para definir datos y reglas.
-2. **Diseñar** la estructura funcional y los flujos entre administración, simulaciones y análisis.
-3. **Implementar e integrar** módulos de gestión, simulación, almacenamiento y regresión lineal en MATLAB.
-4. **Validar** los módulos e integración mediante pruebas de persistencia, entradas y resultados.
+---
 
-Los textos íntegros de los objetivos están en el [README](../README.md) y en la entrega de la Actividad 03.
-
-## Revisión cruzada y autocomprobación
-La documentación original conserva versiones preliminares, autocomprobaciones y una **versión final interna**. La retroalimentación externa de las actividades 02 y 03 **no se ha recibido**; no debe inventarse. Al llegar, registrarla en [RETROALIMENTACION.md](RETROALIMENTACION.md), sin borrar formulaciones antiguas.
-
-**Límite:** regresión y simulación son herramientas académicas para comparar escenarios, no pronósticos médicos.
+## Notas de control y alcance
+* **Control de cambios:** Si se recibe retroalimentación externa sobre las Actividades 02 y 03, se registrará en `RETROALIMENTACION.md` sin sobrescribir las versiones anteriores.
+* **Alcance técnico:** El módulo de regresión lineal y la simulación son herramientas académicas para explorar escenarios comparativos, **no** un motor de diagnóstico o pronóstico médico.
