@@ -54,16 +54,14 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 
 ## GitHub Project (tablero real)
 
-**[Abrir tablero de Clínica del Dengue 2026](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)**.
-
-
+**[Abrir GitHub Project — Clínica del Dengue 2026](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)**. Incluye las 31 tarjetas y los cuatro estados solicitados. Tanto repositorio como Project se encuentran privados; se requiere acceso para que el profesor pueda abrir los enlaces.
 
 ## Organización y seguimiento académico
 
 - [31 Issues del proyecto](../../issues): tareas con descripción, responsable previsto, prioridad y Definition of Done.
 - **26 de 31 Issues cerrados** (T-001 a T-026), como **hitos completados de la simulación académica**, no como certificación de implementación real.
 - **Cinco Issues abiertos:** T-027 (documentación), T-028 (exposición), T-029 (minutas/evidencias), T-030 (tablero y demostración), T-031 (retroalimentación pendiente).
-- [Vista Kanban documental](docs/TABLERO_SIMULADO.md): Done (26), In Progress (2), To Do (2), Backlog (1). **Esta vista no sustituye un GitHub Project real.**
+- [Tablero real de GitHub Projects](https://github.com/users/giancarlo8786-cpu/projects/1/views/1): Done (26), In Progress (3), To Do (1), Backlog (1), según captura compartida el 9 de noviembre de 2026.
 - [Backlog](backlog/README.md) con 31 fichas, CSV y JSON.
 
 ## Evidencias de la asignatura
@@ -76,4 +74,12 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 
 El curso se centra en el **planteamiento, gestión y defensa del proyecto**, por lo que se documenta una evolución simulada del backlog. No deben presentarse como reales pruebas, reuniones o desarrollos que no se hayan realizado.
 
- tablero; confirmar dos evidencias auténticas de coordinación del equipo con sus minutas, o consultar si el profesor admite evidencias simuladas; confirmar las asignaciones reales de GitHub. La retroalimentación del profesor continúa pendiente.
+
+## Pendientes para la entrega
+
+- Guardar y adjuntar la captura real del tablero en la entrega de Classroom (y opcionalmente en el repositorio).
+- Asegurar que el profesor pueda abrir **el repositorio y el Project**, haciéndolos públicos o invitándolo con los permisos correspondientes.
+- Incorporar dos evidencias reales de reuniones del equipo, cada una acompañada por su minuta; las plantillas no son evidencia.
+- Confirmar las cuentas GitHub del resto del equipo si se desea asignación directamente en GitHub; los responsables previstos ya están indicados.
+- Registrar la retroalimentación del profesor **después** de recibirla.
+
