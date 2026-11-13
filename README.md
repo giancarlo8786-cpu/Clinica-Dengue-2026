@@ -17,6 +17,14 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 ## Objetivo general (Actividad 03 - versión revisada)
 > Desarrollar e integrar una plataforma en MATLAB para apoyar la gestión clínica básica relacionada con el dengue y el análisis de posibles escenarios de propagación, mediante módulos de administración, simulaciones configurables, almacenamiento de resultados y análisis de tendencias, con el fin de organizar la información y facilitar la preparación y comprensión ante diferentes escenarios.
 
+## Problema y objetivo
+
+**Problema:** La información clínica básica (pacientes, medicamentos e inventario) y el análisis de escenarios de dengue suelen gestionarse por separado. Esta separación dificulta estudiar sus relaciones dentro de una herramienta académica.
+
+**Objetivo verificable:** Plantear una plataforma integrada en MATLAB cuyo MVP permita demostrar cuatro capacidades: registrar datos ficticios, simular escenarios configurables, guardar y recuperar resultados, y analizar tendencias.
+
+**Siguiente paso:** Relacionar las cuatro capacidades del MVP con las tareas y criterios de aceptación del Product Backlog para su evaluación académica.
+
 ### Objetivos particulares
 1. **Analizar** los procesos de gestión clínica y las variables necesarias para la simulación del dengue, con el fin de definir los datos, reglas y relaciones que deberá manejar la plataforma.
 2. **Diseñar** la estructura funcional y el flujo de información de la Clínica del Dengue, integrando los módulos clínicos con el registro, consulta y análisis de simulaciones.
