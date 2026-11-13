@@ -53,7 +53,7 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 3. Guardar los resultados y consultarlos posteriormente.
 4. Visualizar los resultados y analizar tendencias.
 
-**Demostración del MVP:** registro → simulación → guardado → consulta → análisis, utilizando datos ficticios y evidencias reproducibles.
+**Demostración del MVP:** registro - simulación - guardado - consulta - análisis, utilizando datos ficticios y evidencias reproducibles.
 
 ## Evolución del objetivo (Actividad 03)
 **Primera versión:** «Desarrollar una aplicación para una Clínica del Dengue que integre la gestión de pacientes, inventario, medicamentos y transacciones con un simulador configurable y herramientas de análisis, con el fin de organizar la información y estudiar posibles comportamientos de un brote».
@@ -62,7 +62,7 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 
 ## GitHub Project (tablero real)
 
-**[Abrir GitHub Project — Clínica del Dengue 2026](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)**. Incluye las 31 tarjetas y los cuatro estados solicitados. Tanto repositorio como Project se encuentran privados; se requiere acceso para que el profesor pueda abrir los enlaces.
+**[Abrir GitHub Project - Clínica del Dengue 2026](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)**. Incluye las 31 tarjetas y los cuatro estados solicitados. Tanto repositorio como Project se encuentran privados; se requiere acceso para que el profesor pueda abrir los enlaces.
 
 ## Organización y seguimiento académico
 
