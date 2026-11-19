@@ -80,10 +80,12 @@ Estos criterios forman parte de la planificación académica y sirven como refer
 
 
 - [31 Issues del proyecto](../../issues): tareas con descripción, responsable previsto, prioridad y Definition of Done.
-- **26 de 31 Issues cerrados** (T-001 a T-026), como **hitos completados de la simulación académica**, no como certificación de implementación real.
-- **Cinco Issues abiertos:** T-027 (documentación), T-028 (exposición), T-029 (minutas/evidencias), T-030 (tablero y demostración), T-031 (retroalimentación pendiente).
-- [Tablero real de GitHub Projects](https://github.com/users/giancarlo8786-cpu/projects/1/views/1): Done (26), In Progress (3), To Do (1), Backlog (1), según captura compartida el 9 de noviembre de 2026.
+- **28 de los 31 Issues del backlog cerrados** (T-001 a T-028) como **hitos de preparación y gestión académica**; no son certificación de una implementación nueva de MATLAB.
+- **Tres Issues del backlog siguen abiertos:** T-029 (minutas/evidencias), T-030 (verificación final del tablero y demostración), T-031 (retroalimentación pendiente).
+- [Tablero real de GitHub Projects](https://github.com/users/giancarlo8786-cpu/projects/1/views/1): la captura previa mostraba Done (26), In Progress (3), To Do (1), Backlog (1). **Tras cerrar T-027 y T-028, comprobar y actualizar manualmente su estado en Projects**, porque el estado del tablero puede no cambiar al cerrar una Issue.
 - [Backlog](backlog/README.md) con 31 fichas, CSV y JSON.
+
+- Las mejoras individuales del README se fusionaron mediante [PR #33](https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/pull/33) y [PR #35](https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/pull/35); sus Issues #32 y #34 están cerradas.
 
 ## Evidencias de la asignatura
 
