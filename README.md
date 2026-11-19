@@ -2,7 +2,7 @@
 
 **Seminario de Integración de Desarrollo · CUCEI · Universidad de Guadalajara**
 
-> **Modalidad:** simulación académica de gestión de proyecto. Los hitos T-001 a T-026 se han cerrado dentro del ejercicio docente; sus estados no acreditan ejecución nueva del software o de pruebas en 2026.
+> **Modalidad:** simulación académica de gestión de proyecto. Los 31 hitos T-001 a T-031 están cerrados en GitHub como parte del seguimiento docente; sus estados no acreditan por sí mismos una implementación nueva del software, pruebas reales ni la entrega de evidencias.
 
 ## Equipo
 - Fernando Emiliano Cadenas Montes
@@ -80,9 +80,9 @@ Estos criterios forman parte de la planificación académica y sirven como refer
 
 
 - [31 Issues del proyecto](../../issues): tareas con descripción, responsable previsto, prioridad y Definition of Done.
-- **28 de los 31 Issues del backlog cerrados** (T-001 a T-028) como **hitos de preparación y gestión académica**; no son certificación de una implementación nueva de MATLAB.
-- **Tres Issues del backlog siguen abiertos:** T-029 (minutas/evidencias), T-030 (verificación final del tablero y demostración), T-031 (retroalimentación pendiente).
-- [Tablero real de GitHub Projects](https://github.com/users/giancarlo8786-cpu/projects/1/views/1): la captura previa mostraba Done (26), In Progress (3), To Do (1), Backlog (1). **Tras cerrar T-027 y T-028, comprobar y actualizar manualmente su estado en Projects**, porque el estado del tablero puede no cambiar al cerrar una Issue.
+- **31 de 31 Issues del backlog cerrados** (T-001 a T-031). Corresponden a hitos del ejercicio de gestión académica y no certifican por sí mismos la implementación de MATLAB.
+- **Ningún Issue abierto:** también están cerradas las Issues individuales #32 y #34; en total, los **33 Issues del repositorio están cerrados**. El cierre de T-029, T-030 y T-031 no equivale por sí solo a verificar sus evidencias.
+- [Tablero real de GitHub Projects](https://github.com/users/giancarlo8786-cpu/projects/1/views/1): existe con las cuatro columnas solicitadas. La distribución de su última captura es histórica; **revisar la columna Status de las 31 tarjetas** para que refleje los cierres actuales, dado que GitHub Projects y el estado de los Issues son campos distintos.
 - [Backlog](backlog/README.md) con 31 fichas, CSV y JSON.
 
 - Las mejoras individuales del README se fusionaron mediante [PR #33](https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/pull/33) y [PR #35](https://github.com/giancarlo8786-cpu/Clinica-Dengue-2026/pull/35); sus Issues #32 y #34 están cerradas.
@@ -98,11 +98,11 @@ Estos criterios forman parte de la planificación académica y sirven como refer
 El curso se centra en el **planteamiento, gestión y defensa del proyecto**, por lo que se documenta una evolución simulada del backlog. No deben presentarse como reales pruebas, reuniones o desarrollos que no se hayan realizado.
 
 
-## Pendientes para la entrega
+## Comprobaciones de entrega (independientes del estado Closed)
 
-- Guardar y adjuntar la captura real del tablero en la entrega de Classroom (y opcionalmente en el repositorio).
-- Asegurar que el profesor pueda abrir **el repositorio y el Project**, haciéndolos públicos o invitándolo con los permisos correspondientes.
-- Incorporar dos evidencias reales de reuniones del equipo, cada una acompañada por su minuta; las plantillas no son evidencia.
-- Confirmar las cuentas GitHub del resto del equipo si se desea asignación directamente en GitHub; los responsables previstos ya están indicados.
-- Registrar la retroalimentación del profesor **después** de recibirla.
+- Verificar que la captura real del tablero se haya adjuntado en Classroom (y, si se desea, al repositorio).
+- Confirmar que el profesor puede abrir **el repositorio y el Project** mediante los permisos correspondientes.
+- Comprobar que las dos reuniones del equipo cuentan con **minutas y evidencias auténticas** accesibles; las plantillas disponibles no prueban por sí solas las reuniones.
+- Confirmar las cuentas GitHub de los demás integrantes solo si se desean asignaciones directas; sus responsables previstos ya están documentados.
+- Registrar o enlazar la retroalimentación del profesor **cuando efectivamente se haya recibido**; cerrar T-031 no demuestra por sí mismo que esa retroalimentación exista.
 
