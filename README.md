@@ -64,7 +64,20 @@ Los brotes de dengue pueden aumentar rápidamente la demanda de atención y recu
 
 **[Abrir GitHub Project - Clínica del Dengue 2026](https://github.com/users/giancarlo8786-cpu/projects/1/views/1)**. Incluye las 31 tarjetas y los cuatro estados solicitados. Tanto repositorio como Project se encuentran privados; se requiere acceso para que el profesor pueda abrir los enlaces.
 
+
+## Verificación del MVP
+
+Para evaluar el cumplimiento del objetivo del proyecto, se establecen los siguientes criterios:
+
+- La propuesta contempla el registro de información clínica básica.
+- La simulación permite configurar diferentes escenarios de dengue.
+- Los resultados pueden almacenarse y consultarse.
+- El análisis permite identificar tendencias en los datos simulados.
+
+Estos criterios forman parte de la planificación académica y sirven como referencia para el seguimiento del proyecto.
+
 ## Organización y seguimiento académico
+
 
 - [31 Issues del proyecto](../../issues): tareas con descripción, responsable previsto, prioridad y Definition of Done.
 - **26 de 31 Issues cerrados** (T-001 a T-026), como **hitos completados de la simulación académica**, no como certificación de implementación real.
